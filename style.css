@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    line-height: 1.4;
+    padding: 5px;
+}
+
+#header {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.row {
+    padding: 10px;
+}
+
+#footer {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.text-center {
+    display: block;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid #ddd;
+    background: #f4f4f4;
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+.form-control {
+    display: inline-block !important;
+    margin: 2px;
+}
+
+.btn {
+    margin: 2px;
+}
+
+.clr {
+    height: 5px;
+    clear: both;
+    }
+
+#meme {
+    position: relative;
+}
+
+#meme span {
+    position: absolute;
+    margin-top: 2%;
+    width: 100%;
+    left: 0px;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#line1 {
+    margin-top: 1%;
+}
+
+#line2 {
+    margin-top: 46%;
+}
+
+option {
+    padding: -2px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+  }
